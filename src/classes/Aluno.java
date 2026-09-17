@@ -8,7 +8,7 @@ public class Aluno {
     private float notaTres;
     private float media;
 
-    // Construtor com parâmetros — objeto sempre em estado válido desde a criação
+    // Construtor com parâmetros
     public Aluno(String nome, float notaUm, float notaDois, float notaTres) {
         this.nome = nome;
         this.notaUm = notaUm;
